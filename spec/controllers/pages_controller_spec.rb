@@ -4,7 +4,7 @@ describe PagesController do
   integrate_views
   
   before(:each) do
-    @base_title = "Rails Tutorial App"
+    @base_title = "Ruby on Rails Tutorial Sample App"
   end
 
   describe "GET 'home'" do
